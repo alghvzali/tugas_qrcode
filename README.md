@@ -9,6 +9,8 @@ Tambahkan Packages flutter ini
 <a class="github-button" href="https://pub.dev/packages/barcode_scan">A. barcode_scan 2.0.1</a>
 <br>
 <a class="github-button" href="https://pub.dev/packages/qr_flutter">B. qr_flutter 3.2.0</a>
+<br>
+<a class ="github-button" href="https://pub.dev/packages/url_launcher">C. url_launcher (any version)</a>
 
 Setelah melakukan pub get dan packages sudah terdownload maka tinggal melakukan ngoding :)
 
