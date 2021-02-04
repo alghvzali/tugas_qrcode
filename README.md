@@ -21,14 +21,14 @@ Follow me on :
 Beberapa screenshot dari tugas ini
 
 <h3>Profile page profil.dart</h3> 
-<img src="https://github.com/neon97/QR-CODE-Scanner-Generator/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-04-11%20at%2010.18.40.png?raw=true"  width="200" >
+<img src="https://github.com/neon97/QR-CODE-Scanner-Generator/blob/master/screenshots/1.png"  width="200" >
 </img>
 
 
 <h3>Scanner Page scan.dart</h3> 
-<img src="https://github.com/neon97/QR-CODE-Scanner-Generator/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-04-11%20at%2010.18.40.png?raw=true"  width="200" >
+<img src="https://github.com/neon97/QR-CODE-Scanner-Generator/blob/master/screenshots/2.png"  width="200" >
 </img>
 
 <h3>Generator Page generate.dart</h3> 
-<img src="https://github.com/neon97/QR-CODE-Scanner-Generator/blob/master/screenshots/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-04-11%20at%2010.18.53.png?raw=true"  width="200" >
+<img src="https://github.com/neon97/QR-CODE-Scanner-Generator/blob/master/screenshots/3.png"  width="200" >
 </img>
