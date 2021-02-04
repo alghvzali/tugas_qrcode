@@ -21,14 +21,14 @@ Follow me on :
 Beberapa screenshot dari tugas ini
 
 <h3>Profile page profil.dart</h3> 
-<img src="https://github.com/alghvzali/tugas_qrcode/tree/master/screenshots/1.png"  width="200" >
+<img src="https://github.com/alghvzali/tugas_qrcode/blob/master/screenshots/1.png"  width="200" >
 </img>
 
 
 <h3>Scanner Page scan.dart</h3> 
-<img src="https://github.com/alghvzali/tugas_qrcode/tree/master/screenshots/2.png"  width="200" >
+<img src="https://github.com/alghvzali/tugas_qrcode/blob/master/screenshots/2.png"  width="200" >
 </img>
 
 <h3>Generator Page generate.dart</h3> 
-<img src="https://github.com/alghvzali/tugas_qrcode/tree/master/screenshots/3.png"  width="200" >
+<img src="https://github.com/alghvzali/tugas_qrcode/blob/master/screenshots/3.png"  width="200" >
 </img>
