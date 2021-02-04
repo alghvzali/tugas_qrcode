@@ -1,6 +1,7 @@
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:qrcode/generate.dart';
+import 'package:qrcode/halamanCarousel.dart';
 import 'package:qrcode/halamanGridView.dart';
 import 'package:qrcode/profil.dart';
 import 'package:qrcode/scan.dart';
@@ -13,7 +14,7 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   int selectedpage = 0;
 
-  final _halaman = [Profil(), ScanPage(), GeneratePage(), HalamanGridView(), ]; // Array untuk 3 halaman
+  final _halaman = [Profil(), ScanPage(), GeneratePage(), HalamanGridView(), HalamanCarousel()]; // Array untuk 3 halaman
 
   @override
   Widget build(BuildContext context) {
@@ -29,6 +30,7 @@ class _HomePageState extends State<HomePage> {
           Icon(Icons.camera_alt, size: 35),
           Icon(Icons.qr_code, size: 35),
           Icon(Icons.dashboard, size: 35),
+          Icon(Icons.web, size: 35),
         ], onTap: (index){
         setState(() {
           selectedpage = index;
